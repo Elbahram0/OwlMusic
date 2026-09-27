@@ -45,7 +45,7 @@ Owl Music is an open-source Android application designed for seamless music disc
 
 ## Contact & Links
 
-Developed by **Oruç Demiroş (@El_bahram)**.
+Developed by **(@El_bahram)**.
 
 - **Telegram:** [@El_bahram](https://t.me/El_bahram)
 - **YouTube:** [@orucdemiros](https://www.youtube.com/@orucdemiros)
