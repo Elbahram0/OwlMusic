@@ -6,7 +6,7 @@ A lightweight, ad-free music streaming and offline playback application for Andr
 [![Platform](https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android)](https://github.com/elbahram0/OwlMusic/releases/latest)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
-[**Download Owl.Music-1.0.apk**](https://github.com/elbahram0/OwlMusic/releases/latest/download/Owl.Music-1.0.apk)
+[**Download Latest Release**](https://github.com/elbahram0/OwlMusic/releases/latest)
 
 ---
 
@@ -38,8 +38,8 @@ Owl Music is an open-source Android application designed for seamless music disc
 
 ## Installation
 
-1. Download **[Owl.Music-1.0.apk](https://github.com/elbahram0/OwlMusic/releases/latest/download/Owl.Music-1.0.apk)** from the latest release.
-2. Open the file on your Android device and confirm installation.
+1. Go to the **[Releases](https://github.com/elbahram0/OwlMusic/releases/latest)** page and download the latest `.apk` file.
+2. Open the downloaded file on your Android device and confirm installation.
 
 ---
 
